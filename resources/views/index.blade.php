@@ -21,12 +21,12 @@
             <div class="container px-5">
                 <a class="navbar-brand" href="#page-top">
                 <img src="foto/logo.png"  class="img-fluid" width="5%" >
-                SEMA</a>
+                <span class="ms-2">SEMA</span> </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item"><a class="nav-link" href="#!">Sign Up</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#!">Log In</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#!"></a></li>
+                        <li class="nav-item"><a class="nav-link" href="#!"></a></li>
                     </ul>
                 </div>
             </div>
@@ -35,11 +35,11 @@
         <header class="masthead text-right text-white">
             <div class="masthead-content">
                 <div class="container px-5">
-                    <h1 class="masthead-heading mb-0">SEMA MAHASISWA</h1>
-                    <h2 class="masthead-subheading mb-0">Will Rock Your Socks Off</h2>
+                    <h1 class="masthead-heading mb-0">SENAT MAHASISWA</h1>
+                    <p >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
                     <a class="btn btn-primary btn-xl rounded-pill mt-5" href="#scroll">
-                      
-                        Learn More</a>
+                    Ayo mengenal lebih lanjut!!  
+                    </a>
                 </div>
             </div>
            
